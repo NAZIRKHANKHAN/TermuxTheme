@@ -17,7 +17,7 @@ echo "
 |    \    \ | /   /  \\  \(:   / "\  /\  |\ |:  __   \  
  \___|\____\)(___/    \___)\_______)(__\_|_)|__|  \___) 
                                                         Th3me.V1"
-echo "       Coded by Braderlala"
+echo "       Coded by Nazir khan"
 
 echo 
 echo 
