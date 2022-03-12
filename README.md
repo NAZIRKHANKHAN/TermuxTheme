@@ -5,7 +5,7 @@ Theme for termux
 ```
 $ pip install colorama
 
-$ git clone https://github.com/Braderlala/TermuxTheme
+$ git clone https://github.com/NAZIRKHANKHAN/TermuxTheme
 
 $ cd TermuxTheme
 
