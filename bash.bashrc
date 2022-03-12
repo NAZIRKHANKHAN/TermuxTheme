@@ -9,21 +9,14 @@ PS1='\033[01;34m\]┌──\[\033[01;32m\]nazir\[\033[01;34m\]@\[\033[01;31m\]\h
 clear
 
 echo "
- .S_sSSs     .S_SSSs     sdSSSSSSSbs   .S   .S_sSSs    
-.SS~YS%%b   .SS~SSSSS    YSSSSSSSS%S  .SS  .SS~YS%%b   
-S%S   `S%b  S%S   SSSS          S%S   S%S  S%S   `S%b  
-S%S    S%S  S%S    S%S         S&S    S%S  S%S    S%S  
-S%S    S&S  S%S SSSS%S        S&S     S&S  S%S    d*S  
-S&S    S&S  S&S  SSS%S        S&S     S&S  S&S   .S*S  
-S&S    S&S  S&S    S&S       S&S      S&S  S&S_sdSSS   
-S&S    S&S  S&S    S&S      S*S       S&S  S&S~YSY%b   
-S*S    S*S  S*S    S&S     S*S        S*S  S*S   `S%b  
-S*S    S*S  S*S    S*S   .s*S         S*S  S*S    S%S  
-S*S    S*S  S*S    S*S   sY*SSSSSSSP  S*S  S*S    S&S  
-S*S    SSS  SSS    S*S  sY*SSSSSSSSP  S*S  S*S    SSS  
-SP                 SP                 SP   SP          
-Y                  Y                  Y    Y           
-                                                       h3me.V1"
+ _____  ___        __     ________    __      _______   
+(\"   \|"  \      /""\   ("      "\  |" \    /"      \  
+|.\\   \    |    /    \   \___/   :) ||  |  |:        | 
+|: \.   \\  |   /' /\  \    /  ___/  |:  |  |_____/   ) 
+|.  \    \. |  //  __'  \  //  \__   |.  |   //      /  
+|    \    \ | /   /  \\  \(:   / "\  /\  |\ |:  __   \  
+ \___|\____\)(___/    \___)\_______)(__\_|_)|__|  \___) 
+                                                        Th3me.V1"
 echo "       Coded by Braderlala"
 
 echo 
